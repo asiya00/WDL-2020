@@ -1,2 +1,2 @@
 # WDL-2020
-WDL Course TECO SEM V
+WDL-Course-TECO-SEM-V
